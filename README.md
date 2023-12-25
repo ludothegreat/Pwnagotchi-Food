@@ -13,7 +13,9 @@ You will need 2 ESP8266 microcontrollers to use this code. You need to have the 
 
 These libraries are included in the standard ESP8266 board package for the Arduino IDE.
 
-## Usage
+### Clone the repo
+
+``` git clone https://github.com/ludothegreat/Pwnagotchi-Food.git ```
 
 ### Access Point (AP) Setup
 
